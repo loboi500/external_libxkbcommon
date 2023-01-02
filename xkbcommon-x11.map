@@ -1,9 +1,3 @@
-V_0.5.0 {
-global:
-	xkb_x11_setup_xkb_extension;
-	xkb_x11_get_core_keyboard_device_id;
-	xkb_x11_keymap_new_from_device;
-	xkb_x11_state_new_from_device;
-local:
-	*;
-};
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e43572f740c09752e7287c448c6785f00f8a58a7ab9ee0bbb4fad3ab4e4f5aa
+size 165

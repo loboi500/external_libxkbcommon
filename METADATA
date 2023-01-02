@@ -1,20 +1,3 @@
-name: "libxkbcommon"
-description: "libxkbcommon is a keyboard keymap compiler and support library which processes a reduced subset of keymaps as defined by the XKB (X Keyboard Extension) specification. It also contains a module for handling Compose and dead keys."
-third_party {
-  url {
-    type: HOMEPAGE
-    value: "https://github.com/xkbcommon/libxkbcommon"
-  }
-  url {
-    type: ARCHIVE
-    value: "https://github.com/xkbcommon/libxkbcommon/archive/xkbcommon-1.0.3.tar.gz"
-  }
-  version: "xkbcommon-1.0.3"
-  # would be NOTICE save for test/evdev-scancodes.h
-  license_type: RESTRICTED
-  last_upgrade_date {
-    year: 2020
-    month: 11
-    day: 24
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:01e42bb5f8f9548ac5ae5935c53de413a52eb5f9f6be7337994e4e22b370bc3e
+size 658

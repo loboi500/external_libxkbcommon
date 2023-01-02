@@ -1,6 +1,3 @@
-# Android folks:
-include platform/system/core:/janitors/OWNERS
-# ARC++ folks:
-prabirmsp@google.com
-xutan@google.com
-yhanada@google.com
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4735187965c5bea79aa47aadec6a1191efabdc7f2c276976afa06088f118f95
+size 135
